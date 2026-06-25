@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/43eawiS.png" alt="Drosophila confocal imaging collage" width="100%" height="75%" >
 </p>
 
-<h1 align="center">Valeria</h1>
+<h1 align="center">Valeria Urresty </h1>
 
 <p align="center">
   Neuroscience student at the University of Virginia · Coutinho-Budd Lab
